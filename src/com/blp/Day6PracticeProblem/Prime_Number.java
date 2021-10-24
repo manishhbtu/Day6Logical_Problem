@@ -13,7 +13,7 @@ public class Prime_Number {
             if (temp==0){
                 System.out.println(no + "is prime number");
             }else{
-                System.out.println(no+ "is not prime number");fvb
+                System.out.println(no+ "is not prime number");
             }
         }
 
